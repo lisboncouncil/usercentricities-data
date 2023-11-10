@@ -1,8 +1,12 @@
 # usercentricities-data
-Open Data from the UserCentriCities project
+Open Data from the UserCentriCities project.
+
+https://www.usercentricities.eu/
+
+UserCentriCities is a platform for local authorities to compare their performance with their peers and exchange mutual learning about how to deliver user-centric services.
 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
